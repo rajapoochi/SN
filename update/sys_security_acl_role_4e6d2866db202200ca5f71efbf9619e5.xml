@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>raja</sys_created_by>
+        <sys_created_on>2016-07-14 04:06:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4e6d2866db202200ca5f71efbf9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9244_timesheet_table.x_9244_timesheet.user</sys_name>
+        <sys_package display_value="Timesheet" source="x_9244_timesheet">c56d2c26db202200ca5f71efbf96194e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Timesheet">c56d2c26db202200ca5f71efbf96194e</sys_scope>
+        <sys_security_acl display_value="x_9244_timesheet_table">826d2866db202200ca5f71efbf9619e5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4e6d2866db202200ca5f71efbf9619e5</sys_update_name>
+        <sys_updated_by>raja</sys_updated_by>
+        <sys_updated_on>2016-07-14 04:06:07</sys_updated_on>
+        <sys_user_role display_value="x_9244_timesheet.user" name="x_9244_timesheet.user">956d2866db202200ca5f71efbf9619dd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
